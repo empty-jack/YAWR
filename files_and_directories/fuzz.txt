@@ -1,3 +1,5 @@
+robots.txt
+sitemap.xml
 !.gitignore
 !.htaccess
 !.htpasswd
