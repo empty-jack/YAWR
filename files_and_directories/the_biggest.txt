@@ -18238,6 +18238,7 @@ index.orig
 index.php
 INDEX.PHP
 index.PHP
+index.phP
 index.php-bak
 index.php.backup
 index.php.bak
@@ -40116,3 +40117,6 @@ yarn-error.log
 yarn.lock
 ylwrap
 ~
+::$DATA
+::$INDEX_ALLOCATION
+:$I30:$INDEX_ALLOCATION

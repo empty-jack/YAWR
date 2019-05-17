@@ -4179,3 +4179,6 @@ zimbra/
 zone-h.php
 ~/
 ~admin/
+::$DATA
+::$INDEX_ALLOCATION
+:$I30:$INDEX_ALLOCATION

@@ -110,3 +110,7 @@ upload
 upset
 validate
 verify
+view
+item_list
+checkuser
+check_user

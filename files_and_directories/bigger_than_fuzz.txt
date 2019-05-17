@@ -5324,6 +5324,7 @@ index.001
 index.7z
 index.BAK
 index.PHP
+index.phP
 index.backup
 index.bak
 index.bz2
@@ -9734,3 +9735,6 @@ zt
 ~user
 ~webmaster
 ~www
+::$DATA
+::$INDEX_ALLOCATION
+:$I30:$INDEX_ALLOCATION
