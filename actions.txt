@@ -13,6 +13,8 @@ arrange
 build
 calculate
 change
+check_user
+checkuser
 claim
 collect
 com
@@ -20,6 +22,7 @@ comm
 communicate
 compare
 complete
+compose
 composes
 compute
 consolidate
@@ -61,6 +64,7 @@ improve
 inform
 inquiry
 interpret
+item_list
 kill
 latest
 level
@@ -111,6 +115,3 @@ upset
 validate
 verify
 view
-item_list
-checkuser
-check_user
