@@ -5,6 +5,7 @@
 .atom
 .bat
 .c
+.cmd
 .cfm
 .cgi
 .com
@@ -23,8 +24,12 @@
 .log
 .mdb
 .nsf
+.orig
 .php
+.php5
+.php7
 .phtml
+.xhtml
 .pl
 .py
 .reg
@@ -39,3 +44,6 @@
 /
 ?disco
 ?wsdl
+~
+.bak
+.backup
