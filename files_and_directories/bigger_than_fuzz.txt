@@ -4548,6 +4548,7 @@ examadmin
 example
 example.php
 examples
+examples/jsp
 examples/jsp/%252e%252e/%252e%252e/manager/html
 examples/jsp/snp/snoop.jsp
 examples/servlet/SnoopServlet
