@@ -1564,6 +1564,7 @@ __index.php
 __init__.py
 __pma___
 __pycache__
+__debug__
 __recovery
 __test.php
 _adm

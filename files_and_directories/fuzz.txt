@@ -640,6 +640,7 @@ __pycache__/
 __recovery/
 __SQL
 __test.php
+__debug__
 _adm
 _admin
 _book

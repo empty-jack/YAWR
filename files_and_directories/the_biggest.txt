@@ -1575,6 +1575,7 @@ ___admin
 ___mysqldumper
 ___test
 __admin
+__debug__
 __backup
 __cache
 __data
