@@ -19,6 +19,8 @@
 .DS_Store
 .FBCIndex
 .HTF
+actuator/health
+actuator/env
 .JustCode
 .LOCAL
 .LSOverride

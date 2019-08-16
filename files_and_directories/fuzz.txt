@@ -1,5 +1,3 @@
-robots.txt
-sitemap.xml
 !.gitignore
 !.htaccess
 !.htpasswd
@@ -627,9 +625,13 @@ sitemap.xml
 8899.php
 9.php
 9678.php
+:$I30:$INDEX_ALLOCATION
+::$DATA
+::$INDEX_ALLOCATION
 \..\..\..\..\..\..\..\..\..\etc\passwd
 _.htpasswd
 __cache/
+__debug__
 __dummy.html
 __history/
 __index.php
@@ -640,7 +642,6 @@ __pycache__/
 __recovery/
 __SQL
 __test.php
-__debug__
 _adm
 _admin
 _book
@@ -743,6 +744,8 @@ accounts.xml
 accounts/
 acct_login/
 activity.log
+actuator/env
+actuator/health
 ad_login
 ad_manage
 add.php
@@ -3342,6 +3345,7 @@ resume.json
 revision.inc
 revision.txt
 robot.txt
+robots.txt
 robots.txt.dist
 root/
 RootCA.crt
@@ -3476,6 +3480,7 @@ siteadmin/index.php
 siteadmin/login.html
 siteadmin/login.php
 sitemanager.xml
+sitemap.xml
 sites.ini
 sites.xml
 sites/all/libraries/README.txt
@@ -4180,6 +4185,3 @@ zimbra/
 zone-h.php
 ~/
 ~admin/
-::$DATA
-::$INDEX_ALLOCATION
-:$I30:$INDEX_ALLOCATION
