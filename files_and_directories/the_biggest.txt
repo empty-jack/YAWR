@@ -6095,6 +6095,7 @@ api-doc
 api-docs
 api.log
 api/error_log
+api/graphql
 api/swagger-ui.html
 api/swagger.yml
 api2
@@ -16532,7 +16533,10 @@ Graphics
 graphics
 graphics2
 graphing
+graphiql
 graphix
+graphql
+graphql/console
 graphs
 graphx
 grappelli
@@ -20415,6 +20419,7 @@ latest
 latest-lifestyle
 latest-news
 latest-updates
+latest/meta-data
 latest/meta-data/hostname
 latest/user-data
 latestchanges

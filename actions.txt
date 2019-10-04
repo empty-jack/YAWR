@@ -51,6 +51,7 @@ divide
 dofor
 download
 enable
+email
 explode
 fabricate
 fashion

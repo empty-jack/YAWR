@@ -1102,6 +1102,7 @@ api
 api.log
 api/
 api/error_log
+api/graphql
 api/swagger-ui.html
 apibuild.pyc
 app.config
@@ -2154,6 +2155,8 @@ globes_admin/
 google-services.json
 grabbed.html
 gradle-app.setting
+graphql
+graphql/console
 grappelli/
 GruntFile.coffee
 Gruntfile.coffee
@@ -2409,6 +2412,7 @@ kpanel/
 l0gs.txt
 L3b.php
 lander.logs
+latest/meta-data
 latest/meta-data/hostname
 latest/user-data
 layouts/
