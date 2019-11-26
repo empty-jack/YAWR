@@ -1,3 +1,4 @@
+_api/Web/Lists/
 !.gitignore
 !.htaccess
 !.htpasswd
@@ -9,6 +10,8 @@
 %ff/
 +CSCOU+/../+CSCOE+/files/file_list.json
 ..;/
+..;/examples/
+..;/static/
 .7z
 .access
 .addressbook
@@ -644,6 +647,7 @@ __SQL
 __test.php
 _adm
 _admin
+_api/Web/
 _book
 _build
 _build/
@@ -1825,6 +1829,7 @@ debug.txt
 debug.xml
 debug/
 debug_error.jsp
+default.aspx::$DATA
 delete.php
 demo.php
 demo/
@@ -4189,3 +4194,4 @@ zimbra/
 zone-h.php
 ~/
 ~admin/
+_api/web/folders/getbyurl('/')
