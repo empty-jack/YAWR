@@ -14,7 +14,14 @@ build
 calculate
 change
 check_user
+check_verify
 checkuser
+checklogin
+check_login
+checkusername
+check_username
+check_name
+checkname
 claim
 collect
 com
@@ -31,6 +38,7 @@ contact
 create
 crush
 damage
+deal
 def
 define
 del
@@ -50,11 +58,12 @@ display
 divide
 dofor
 download
-enable
 email
+enable
 explode
 fabricate
 fashion
+find
 forge
 form
 generate
@@ -62,6 +71,7 @@ get
 go
 group
 improve
+index
 inform
 inquiry
 interpret
@@ -86,6 +96,7 @@ queue
 quit
 reactivate
 read
+recharge
 recite
 record
 recursive
@@ -96,6 +107,8 @@ restrict
 retrieve
 run
 select
+send
+sendsms
 set
 setup
 show

@@ -3,6 +3,7 @@ _api/Web/Lists/
 !.htaccess
 !.htpasswd
 %20../
+%2e/
 %2e%2e//google.com
 %2e%2e;/test
 %3f/
@@ -572,6 +573,17 @@ _api/Web/Lists/
 2.php
 2.sql
 2.txt
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
 2010.sql
 2010.tar
 2010.tar.gz

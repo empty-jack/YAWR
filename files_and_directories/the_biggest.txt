@@ -16,6 +16,7 @@
 #HTTPClntRecv
 %20
 %20..
+%2e/
 %2e%2e//google.com
 %2e%2e;/test
 %3f
