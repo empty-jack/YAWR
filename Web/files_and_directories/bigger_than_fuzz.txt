@@ -1957,6 +1957,7 @@ aphtpasswd.html
 api
 api-doc
 api-docs
+api-docs
 api.log
 api/error_log
 api/graphql
@@ -1971,6 +1972,10 @@ api/v2.0
 api/v2.1
 apibuild.pyc
 apis
+apis
+apis/
+apis/apiextensions.k8s.io
+apis/apiextensions.k8s.io/v1beta1
 apl
 apm
 APP
@@ -2193,6 +2198,7 @@ authentication
 authentication.php
 author
 authoring
+authorization
 authorization
 authorization.config
 authorize.php
@@ -3561,6 +3567,7 @@ debug.py
 debug.txt
 debug.xml
 debug_error.jsp
+debugger.php
 dec
 decl
 declaration
@@ -4050,6 +4057,8 @@ esadmin
 esale
 esales
 eshop
+esia
+esia_keys
 esiInavlidator
 esp
 espanol
@@ -4650,6 +4659,7 @@ hadoop
 handle
 handler
 handlers
+handlers
 handles
 happen
 happening
@@ -4669,6 +4679,14 @@ Health
 health
 health.json
 healthcare
+healthz
+healthz/etcd
+healthz/log
+healthz/ping
+healthz/poststarthook/crd-informer-synced
+healthz/poststarthook/generic-apiserver-start-informers
+healthz/poststarthook/start-apiextensions-controllers
+healthz/poststarthook/start-apiextensions-informers
 heapdump
 heapdump.json
 heip65_admin.nsf
@@ -6222,6 +6240,7 @@ New%20Folder
 New%20folder%20(2)
 new.php
 new_admin
+new_api
 newadmin
 newattachment
 newbbs
@@ -6382,6 +6401,7 @@ open-account
 open-flash-chart.swf?get-data=(function(){alert(document.domain)})()
 openadmin
 openads
+openapi/v2
 openapp
 openbsd
 opencart
@@ -8160,6 +8180,7 @@ SnoopServlet
 snp
 so
 soap
+soap.php
 soapdocs
 soapdocs/webapps/soap/WEB-INF/config/soapConfig.xml
 SOAPMonitor
@@ -9146,14 +9167,21 @@ V
 v
 v1
 v1.0
+v1.0/api-docs
 v1.1
+v1.1/api-docs
 v1.2
+v1.2/api-docs
+v1/api-docs
 v1/public/yql
 v1/test/js/console.html
 v1/test/js/console_ajax.js
 v2
 v2.0
+v2.0/api-docs
 v2.1
+v2.1/api-docs
+v2/api-docs
 v2/keys/?recursive=true
 v3
 v4

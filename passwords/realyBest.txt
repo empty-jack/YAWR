@@ -1,4 +1,5 @@
 
+Qw123
 !QAZ2wsx
 !qaz@wsx
 0
@@ -35,7 +36,10 @@
 1e2e3e
 1e2e3e4e
 1q2q3q
+1q2q3Q!
 1q2q3q4q
+1q2q3q4Q
+1q2q3q4Q!
 1q2w3e
 1q2w3e4r
 1q2w3e4r5t
@@ -45,7 +49,13 @@
 1qazXSW@
 1w2q!W@Q
 1w2w3w
+1w2w3W
+1w2w3W!
+1w2w3w!
 1w2w3w4w
+1w2w3w4W
+1w2w3w4w!
+1w2w3w4W!
 2
 3
 4
@@ -101,6 +111,7 @@ q1w2e3r4
 q1w2e3r4t5
 qazwsxedc
 qwe123
+Qwe123
 qwer1234
 qwerty
 qwerty123

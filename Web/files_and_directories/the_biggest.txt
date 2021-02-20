@@ -6115,6 +6115,7 @@ aphtpasswd.html
 api
 api-doc
 api-docs
+api-docs
 api.log
 api/error_log
 api/graphql
@@ -6141,6 +6142,10 @@ apidocs/com/sap/engine/deploy/manager/DeploymanagerFactory.html
 apidocs/com/sap/engine/deploy/manager/LoginInfo.html
 apimage
 apis
+apis
+apis/
+apis/apiextensions.k8s.io
+apis/apiextensions.k8s.io/v1beta1
 apl
 aplicacion
 aplicaciones
@@ -6822,6 +6827,7 @@ author.log
 authordata
 authoring
 authority
+authorization
 authorization
 authorization.config
 authorize
@@ -12281,6 +12287,7 @@ debug.xml
 debug/rus/autorisation
 debug_error.jsp
 debug_log
+debugger.php
 DebugServer
 dec
 december
@@ -14279,6 +14286,8 @@ eshop
 EshopsAdmin
 eshot
 esi
+esia
+esia_keys
 esiInavlidator
 eski
 esl
@@ -16799,6 +16808,7 @@ handle
 handle-buy-box
 handler
 handlers
+handlers
 handles
 handouts
 handson
@@ -16892,6 +16902,14 @@ health.json
 healthcare
 healthcheck
 healthprofile
+healthz
+healthz/etcd
+healthz/log
+healthz/ping
+healthz/poststarthook/crd-informer-synced
+healthz/poststarthook/generic-apiserver-start-informers
+healthz/poststarthook/start-apiextensions-controllers
+healthz/poststarthook/start-apiextensions-informers
 heapdump
 heapdump.json
 heart
@@ -23374,6 +23392,7 @@ new1
 new2
 new3
 new_admin
+new_api
 new_cars
 new_design
 new_folder
@@ -24475,6 +24494,7 @@ open-flash-chart.swf?get-data=(function(){alert(document.domain)})()
 open?
 openadmin
 openads
+openapi/v2
 openapp
 openbot
 openbsd
@@ -33708,6 +33728,7 @@ snuffy
 so
 soa
 soap
+soap.php
 soap/admin
 soap/admin/providermanager
 soap/admin/servicemanager
@@ -37388,8 +37409,12 @@ v-web
 v.php
 v1
 v1.0
+v1.0/api-docs
 v1.1
+v1.1/api-docs
 v1.2
+v1.2/api-docs
+v1/api-docs
 v1/public/yql
 v1/swagger.json
 v1/test/js/console.html
@@ -37398,7 +37423,10 @@ v10
 v2
 v2
 v2.0
+v2.0/api-docs
 v2.1
+v2.1/api-docs
+v2/api-docs
 v2/keys/?recursive=true
 v2/painel
 v2/swagger.json
