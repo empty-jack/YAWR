@@ -1212,6 +1212,7 @@ admin-custom
 admin-database
 admin-database.php
 admin-dev
+admin-ajax.php
 admin-dev/autoupgrade
 admin-dev/backups
 admin-dev/export

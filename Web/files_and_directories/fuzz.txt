@@ -15,6 +15,7 @@
 .7z
 .access
 .addressbook
+
 .adm
 .admin
 .apdisk
@@ -749,6 +750,7 @@ adm_auth
 adm_auth.php
 admin
 admin%20
+admin-ajax.php
 admin-console
 admin-database
 admin-database.php
@@ -4099,4 +4101,4 @@ zf_backend.php
 zimbra
 zone-h.php
 ~
-~admin/
+~admin
