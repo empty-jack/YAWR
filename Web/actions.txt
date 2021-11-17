@@ -2,7 +2,6 @@ accelerate
 account
 acquire
 activate
-activate
 adapt
 add
 adjust
@@ -44,7 +43,6 @@ construct
 contact
 coupon
 create
-create
 crush
 currency
 damage
@@ -81,7 +79,6 @@ format
 ga
 generate
 get
-get
 get-profile
 get-settings
 go
@@ -90,7 +87,6 @@ history
 id
 improve
 index
-info
 info
 inform
 inquiry
@@ -101,10 +97,7 @@ kill
 latest
 level
 link
-link
 list
-list
-login
 login
 logout
 make
@@ -138,7 +131,6 @@ register
 registration
 remove
 request
-reset
 reset
 reset-activate-code
 reset-password-confirm
@@ -175,7 +167,6 @@ understand
 undo
 unqueue
 update
-update
 update-profile
 update-push-token
 update-settings
@@ -184,8 +175,6 @@ upset
 user
 v1
 validate
-validate
-verify
 verify
 view
 wallet
