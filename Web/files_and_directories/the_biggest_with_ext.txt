@@ -10169,6 +10169,7 @@ cdi
 cdm.php
 cdma
 cdn
+cdn-cgi
 cdr
 cdrom
 cdrom0

@@ -1200,6 +1200,7 @@ Admin
 admin
 admin%20
 admin-admin
+admin-ajax.php
 admin-ajax.php?
 admin-ANTIGO
 admin-area
@@ -1212,7 +1213,6 @@ admin-custom
 admin-database
 admin-database.php
 admin-dev
-admin-ajax.php
 admin-dev/autoupgrade
 admin-dev/backups
 admin-dev/export
@@ -2712,6 +2712,7 @@ ccp14admin
 ccs
 cd
 cdadmin
+cdn-cgi
 cdrom
 celerybeat-schedule
 cell.xml
